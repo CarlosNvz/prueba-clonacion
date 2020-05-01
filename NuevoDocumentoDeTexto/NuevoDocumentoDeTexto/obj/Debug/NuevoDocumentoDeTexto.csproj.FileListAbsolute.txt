@@ -1,0 +1,21 @@
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.exe.config
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.exe
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.pdb
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.Form1.resources
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.Properties.Resources.resources
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.exe
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.pdb
+C:\Users\carlo\source\repos\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\Tabla de simbolos.accdb
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\Tabla de simbolos.accdb
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.exe.config
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.exe
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\bin\Debug\NuevoDocumentoDeTexto.pdb
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.Form1.resources
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.Properties.Resources.resources
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.exe
+C:\Users\carlo\source\repos\prueba-clonacion\NuevoDocumentoDeTexto\NuevoDocumentoDeTexto\obj\Debug\NuevoDocumentoDeTexto.pdb
